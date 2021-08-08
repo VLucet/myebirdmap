@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of `myebirdmap` is to serve as an example package for the [CSEE 2021 workshop on R package development for research](https://github.com/VLucet/R_pkg_dev_for_research_CSEE_2021).
+Simple map of ebird profile data.
 
 ### Installation
 
